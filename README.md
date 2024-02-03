@@ -1,8 +1,8 @@
 Hi 👋 My name is Lucas Chabiron
 ===============================
 
-Web developper
---------------
+Web developper / software engineer
+-------------------------------
 
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [lucaschabiron.com](http://lucaschabiron.com)
